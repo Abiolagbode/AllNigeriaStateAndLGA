@@ -1,0 +1,3337 @@
+{
+  "States":[
+    {
+      "stateCode": "1",
+      "stateName": "Federal Capital Territory",
+      "lgas":
+      [
+        {
+          "lgaCode": "01",
+          "lgaName": "Gwagwalada"
+        },
+        {
+          "lgaCode": "02",
+          "lgaName": "Kuje"
+        },
+        {
+          "lgaCode": "03",
+          "lgaName": "Abaji"
+        },
+        {
+          "lgaCode": "04",
+          "lgaName": "Abuja Municipal"
+        },
+        {
+          "lgaCode": "05",
+          "lgaName": "Bwari"
+        },
+        {
+          "lgaCode": "06",
+          "lgaName": "Kwali"
+        }
+      ]
+    },
+    {
+      "stateCode": "2",
+      "stateName": "Abia",
+      "lgas":
+      [
+        {
+          "lgaCode": "07",
+          "lgaName": "Aba North"
+        },
+        {
+          "lgaCode": "08",
+          "lgaName": "Aba South"
+        },
+        {
+          "lgaCode": "09",
+          "lgaName": "Arochukwu"
+        },
+        {
+          "lgaCode": "10",
+          "lgaName": "Bende"
+        },
+        {
+          "lgaCode": "11",
+          "lgaName": "Ikwuano"
+        },
+        {
+          "lgaCode": "12",
+          "lgaName": "Isiala-Ngwa North"
+        },
+        {
+          "lgaCode": "13",
+          "lgaName": "Isiala-Ngwa South"
+        },
+        {
+          "lgaCode": "14",
+          "lgaName": "Isuikwato"
+        },
+        {
+          "lgaCode": "15",
+          "lgaName": "Obi Nwa"
+        },
+        {
+          "lgaCode": "16",
+          "lgaName": "Ohafia"
+        },
+        {
+          "lgaCode": "17",
+          "lgaName": "Osisioma"
+        },
+        {
+          "lgaCode": "18",
+          "lgaName": "Ngwa"
+        },
+        {
+          "lgaCode": "19",
+          "lgaName": "Ugwunagbo"
+        },
+        {
+          "lgaCode": "20",
+          "lgaName": "Ukwa East"
+        },
+        {
+          "lgaCode": "21",
+          "lgaName": "Ukwa West"
+        },
+        {
+          "lgaCode": "22",
+          "lgaName": "Umuahia North"
+        },
+        {
+          "lgaCode": "23",
+          "lgaName": "Umuahia South"
+        },
+        {
+          "lgaCode": "24",
+          "lgaName": "Umu-Neochi"
+        }
+      ]
+    },
+    {
+      "stateCode": "3",
+      "stateName": "Adamawa",
+      "lgas":
+      [
+        {
+          "lgaCode": "25",
+          "lgaName": "Demsa"
+        },
+        {
+          "lgaCode": "26",
+          "lgaName": "Fufore"
+        },
+        {
+          "lgaCode": "27",
+          "lgaName": "Ganaye"
+        },
+        {
+          "lgaCode": "28",
+          "lgaName": "Gireri"
+        },
+        {
+          "lgaCode": "29",
+          "lgaName": "Gombi"
+        },
+        {
+          "lgaCode": "30",
+          "lgaName": "Guyuk"
+        },
+        {
+          "lgaCode": "31",
+          "lgaName": "Hong"
+        },
+        {
+          "lgaCode": "32",
+          "lgaName": "Jada"
+        },
+        {
+          "lgaCode": "33",
+          "lgaName": "Lamurde"
+        },
+        {
+          "lgaCode": "34",
+          "lgaName": "Madagali"
+        },
+        {
+          "lgaCode": "35",
+          "lgaName": "Maiha"
+        },
+        {
+          "lgaCode": "36",
+          "lgaName": "Mayo-Belwa"
+        },
+        {
+          "lgaCode": "37",
+          "lgaName": "Michika"
+        },
+        {
+          "lgaCode": "38",
+          "lgaName": "Mubi North"
+        },
+        {
+          "lgaCode": "39",
+          "lgaName": "Mubi South"
+        },
+        {
+          "lgaCode": "40",
+          "lgaName": "Numan"
+        },
+        {
+          "lgaCode": "41",
+          "lgaName": "Shelleng"
+        },
+        {
+          "lgaCode": "42",
+          "lgaName": "Song"
+        },
+        {
+          "lgaCode": "43",
+          "lgaName": "Toungo"
+        },
+        {
+          "lgaCode": "44",
+          "lgaName": "Yola North"
+        },
+        {
+          "lgaCode": "45",
+          "lgaName": "Yola South"
+        }
+      ]
+    },
+    {
+      "stateCode": "4",
+      "stateName": "Akwa Ibom",
+      "lgas":
+      [
+        {
+          "lgaCode": "46",
+          "lgaName": "Abak"
+        },
+        {
+          "lgaCode": "47",
+          "lgaName": "Eastern Obolo"
+        },
+        {
+          "lgaCode": "48",
+          "lgaName": "Eket"
+        },
+        {
+          "lgaCode": "49",
+          "lgaName": "Esit Eket"
+        },
+        {
+          "lgaCode": "50",
+          "lgaName": "Essien Udim"
+        },
+        {
+          "lgaCode": "51",
+          "lgaName": "Etim Ekpo"
+        },
+        {
+          "lgaCode": "52",
+          "lgaName": "Etinan"
+        },
+        {
+          "lgaCode": "53",
+          "lgaName": "Ibeno"
+        },
+        {
+          "lgaCode": "54",
+          "lgaName": "Ibesikpo Asutan"
+        },
+        {
+          "lgaCode": "55",
+          "lgaName": "Ibiono Ibom"
+        },
+        {
+          "lgaCode": "56",
+          "lgaName": "Ika"
+        },
+        {
+          "lgaCode": "57",
+          "lgaName": "Ikono"
+        },
+        {
+          "lgaCode": "58",
+          "lgaName": "Ikot Abasi"
+        },
+        {
+          "lgaCode": "59",
+          "lgaName": "Ikot Ekpene"
+        },
+        {
+          "lgaCode": "60",
+          "lgaName": "Ini"
+        },
+        {
+          "lgaCode": "61",
+          "lgaName": "Itu"
+        },
+        {
+          "lgaCode": "62",
+          "lgaName": "Mbo"
+        },
+        {
+          "lgaCode": "63",
+          "lgaName": "Mkpat Enin"
+        },
+        {
+          "lgaCode": "64",
+          "lgaName": "Nsit Atai"
+        },
+        {
+          "lgaCode": "65",
+          "lgaName": "Nsit Ibom"
+        },
+        {
+          "lgaCode": "66",
+          "lgaName": "Nsit Ubium"
+        },
+        {
+          "lgaCode": "67",
+          "lgaName": "Obot Akara"
+        },
+        {
+          "lgaCode": "68",
+          "lgaName": "Okobo"
+        },
+        {
+          "lgaCode": "69",
+          "lgaName": "Onna"
+        },
+        {
+          "lgaCode": "70",
+          "lgaName": "Oron?"
+        },
+        {
+          "lgaCode": "71",
+          "lgaName": "Oruk Anam"
+        },
+        {
+          "lgaCode": "72",
+          "lgaName": "Udung Uko"
+        },
+        {
+          "lgaCode": "73",
+          "lgaName": "Ukanafun"
+        },
+        {
+          "lgaCode": "74",
+          "lgaName": "Uruan"
+        },
+        {
+          "lgaCode": "75",
+          "lgaName": "Urue-Offong/Oruko"
+        },
+        {
+          "lgaCode": "76",
+          "lgaName": "Uyo"
+        }
+      ]
+    },
+    {
+      "stateCode": "5",
+      "stateName": "Anambra",
+      "lgas":
+      [
+        {
+          "lgaCode": "77",
+          "lgaName": "Aguata"
+        },
+        {
+          "lgaCode": "78",
+          "lgaName": "Anambra East"
+        },
+        {
+          "lgaCode": "79",
+          "lgaName": "Anambra West"
+        },
+        {
+          "lgaCode": "80",
+          "lgaName": "Anaocha"
+        },
+        {
+          "lgaCode": "81",
+          "lgaName": "Awka North"
+        },
+        {
+          "lgaCode": "82",
+          "lgaName": "Awka South"
+        },
+        {
+          "lgaCode": "83",
+          "lgaName": "Ayamelum"
+        },
+        {
+          "lgaCode": "84",
+          "lgaName": "Dunukofia"
+        },
+        {
+          "lgaCode": "85",
+          "lgaName": "Ekwusigo"
+        },
+        {
+          "lgaCode": "86",
+          "lgaName": "Idemili North"
+        },
+        {
+          "lgaCode": "87",
+          "lgaName": "Idemili south"
+        },
+        {
+          "lgaCode": "88",
+          "lgaName": "Ihiala"
+        },
+        {
+          "lgaCode": "89",
+          "lgaName": "Njikoka"
+        },
+        {
+          "lgaCode": "90",
+          "lgaName": "Nnewi North"
+        },
+        {
+          "lgaCode": "91",
+          "lgaName": "Nnewi South"
+        },
+        {
+          "lgaCode": "92",
+          "lgaName": "Ogbaru"
+        },
+        {
+          "lgaCode": "93",
+          "lgaName": "Onitsha North"
+        },
+        {
+          "lgaCode": "94",
+          "lgaName": "Onitsha South"
+        },
+        {
+          "lgaCode": "95",
+          "lgaName": "Orumba North"
+        },
+        {
+          "lgaCode": "96",
+          "lgaName": "Orumba South"
+        },
+        {
+          "lgaCode": "97",
+          "lgaName": "Oyi"
+        }
+      ]
+    },
+    {
+      "stateCode": "6",
+      "stateName": "Bauchi",
+      "lgas":
+      [
+        {
+          "lgaCode": "98",
+          "lgaName": "Alkaleri"
+        },
+        {
+          "lgaCode": "99",
+          "lgaName": "Bauchi"
+        },
+        {
+          "lgaCode": "100",
+          "lgaName": "Bogoro"
+        },
+        {
+          "lgaCode": "101",
+          "lgaName": "Damban"
+        },
+        {
+          "lgaCode": "102",
+          "lgaName": "Darazo"
+        },
+        {
+          "lgaCode": "103",
+          "lgaName": "Dass"
+        },
+        {
+          "lgaCode": "104",
+          "lgaName": "Ganjuwa"
+        },
+        {
+          "lgaCode": "105",
+          "lgaName": "Giade"
+        },
+        {
+          "lgaCode": "106",
+          "lgaName": "Itas/Gadau"
+        },
+        {
+          "lgaCode": "107",
+          "lgaName": "Jama'are"
+        },
+        {
+          "lgaCode": "108",
+          "lgaName": "Katagum"
+        },
+        {
+          "lgaCode": "109",
+          "lgaName": "Kirfi"
+        },
+        {
+          "lgaCode": "110",
+          "lgaName": "Misua"
+        },
+        {
+          "lgaCode": "111",
+          "lgaName": "Ningi"
+        },
+        {
+          "lgaCode": "112",
+          "lgaName": "Shira"
+        },
+        {
+          "lgaCode": "113",
+          "lgaName": "Tafawa-Balewa"
+        },
+        {
+          "lgaCode": "114",
+          "lgaName": "Toro"
+        },
+        {
+          "lgaCode": "115",
+          "lgaName": "Warji"
+        },
+        {
+          "lgaCode": "116",
+          "lgaName": "Zaki"
+        }
+      ]
+    },
+    {
+      "stateCode": "7",
+      "stateName": "Bayelsa",
+      "lgas":
+      [
+        {
+          "lgaCode": "117",
+          "lgaName": "Brass"
+        },
+        {
+          "lgaCode": "118",
+          "lgaName": "Ekeremor"
+        },
+        {
+          "lgaCode": "119",
+          "lgaName": "Kolokuma/Opokuma"
+        },
+        {
+          "lgaCode": "120",
+          "lgaName": "Nembe"
+        },
+        {
+          "lgaCode": "121",
+          "lgaName": "Ogbia"
+        },
+        {
+          "lgaCode": "122",
+          "lgaName": "Sagbama"
+        },
+        {
+          "lgaCode": "123",
+          "lgaName": "Southern Jaw"
+        },
+        {
+          "lgaCode": "124",
+          "lgaName": "Yenegoa"
+        }
+      ]
+    },
+    {
+      "stateCode": "8",
+      "stateName": "Benue",
+      "lgas":
+      [
+        {
+          "lgaCode": "125",
+          "lgaName": "Ado"
+        },
+        {
+          "lgaCode": "126",
+          "lgaName": "Agatu"
+        },
+        {
+          "lgaCode": "127",
+          "lgaName": "Apa"
+        },
+        {
+          "lgaCode": "128",
+          "lgaName": "Buruku"
+        },
+        {
+          "lgaCode": "129",
+          "lgaName": "Gboko"
+        },
+        {
+          "lgaCode": "130",
+          "lgaName": "Guma"
+        },
+        {
+          "lgaCode": "131",
+          "lgaName": "Gwer East"
+        },
+        {
+          "lgaCode": "132",
+          "lgaName": "Gwer West"
+        },
+        {
+          "lgaCode": "133",
+          "lgaName": "Katsina-Ala"
+        },
+        {
+          "lgaCode": "134",
+          "lgaName": "Konshisha"
+        },
+        {
+          "lgaCode": "135",
+          "lgaName": "Kwande"
+        },
+        {
+          "lgaCode": "136",
+          "lgaName": "Logo"
+        },
+        {
+          "lgaCode": "137",
+          "lgaName": "Makurdi"
+        },
+        {
+          "lgaCode": "138",
+          "lgaName": "Obi"
+        },
+        {
+          "lgaCode": "139",
+          "lgaName": "Ogbadibo"
+        },
+        {
+          "lgaCode": "140",
+          "lgaName": "Oju"
+        },
+        {
+          "lgaCode": "141",
+          "lgaName": "Okpokwu"
+        },
+        {
+          "lgaCode": "142",
+          "lgaName": "Ohimini"
+        },
+        {
+          "lgaCode": "143",
+          "lgaName": "Oturkpo"
+        },
+        {
+          "lgaCode": "144",
+          "lgaName": "Tarka"
+        },
+        {
+          "lgaCode": "145",
+          "lgaName": "Ukum"
+        },
+        {
+          "lgaCode": "146",
+          "lgaName": "Ushongo"
+        },
+        {
+          "lgaCode": "147",
+          "lgaName": "Vandeikya"
+        }
+      ]
+    },
+    {
+      "stateCode": "9",
+      "stateName": "Bornu",
+      "lgas":
+      [
+        {
+          "lgaCode": "148",
+          "lgaName": "Abadam"
+        },
+        {
+          "lgaCode": "149",
+          "lgaName": "Askira/Uba"
+        },
+        {
+          "lgaCode": "150",
+          "lgaName": "Bama"
+        },
+        {
+          "lgaCode": "151",
+          "lgaName": "Bayo"
+        },
+        {
+          "lgaCode": "152",
+          "lgaName": "Biu"
+        },
+        {
+          "lgaCode": "153",
+          "lgaName": "Chibok"
+        },
+        {
+          "lgaCode": "154",
+          "lgaName": "Damboa"
+        },
+        {
+          "lgaCode": "155",
+          "lgaName": "Dikwa"
+        },
+        {
+          "lgaCode": "156",
+          "lgaName": "Gubio"
+        },
+        {
+          "lgaCode": "157",
+          "lgaName": "Guzamala"
+        },
+        {
+          "lgaCode": "158",
+          "lgaName": "Gwoza"
+        },
+        {
+          "lgaCode": "159",
+          "lgaName": "Hawul"
+        },
+        {
+          "lgaCode": "160",
+          "lgaName": "Jere"
+        },
+        {
+          "lgaCode": "161",
+          "lgaName": "Kaga"
+        },
+        {
+          "lgaCode": "162",
+          "lgaName": "Kala/Balge"
+        },
+        {
+          "lgaCode": "163",
+          "lgaName": "Konduga"
+        },
+        {
+          "lgaCode": "164",
+          "lgaName": "Kukawa"
+        },
+        {
+          "lgaCode": "165",
+          "lgaName": "Kwaya Kusar"
+        },
+        {
+          "lgaCode": "166",
+          "lgaName": "Mafa"
+        },
+        {
+          "lgaCode": "167",
+          "lgaName": "Magumeri"
+        },
+        {
+          "lgaCode": "168",
+          "lgaName": "Maiduguri"
+        },
+        {
+          "lgaCode": "169",
+          "lgaName": "Marte"
+        },
+        {
+          "lgaCode": "170",
+          "lgaName": "Mobbar"
+        },
+        {
+          "lgaCode": "171",
+          "lgaName": "Monguno"
+        },
+        {
+          "lgaCode": "172",
+          "lgaName": "Ngala"
+        },
+        {
+          "lgaCode": "173",
+          "lgaName": "Nganzai"
+        },
+        {
+          "lgaCode": "174",
+          "lgaName": "Shani"
+        }
+      ]
+    },
+    {
+      "stateCode": "10",
+      "stateName": "Cross River",
+      "lgas":
+      [
+        {
+          "lgaCode": "175",
+          "lgaName": "Akpabuyo"
+        },
+        {
+          "lgaCode": "176",
+          "lgaName": "Odukpani"
+        },
+        {
+          "lgaCode": "177",
+          "lgaName": "Akamkpa"
+        },
+        {
+          "lgaCode": "178",
+          "lgaName": "Biase"
+        },
+        {
+          "lgaCode": "179",
+          "lgaName": "Abi"
+        },
+        {
+          "lgaCode": "180",
+          "lgaName": "Ikom"
+        },
+        {
+          "lgaCode": "181",
+          "lgaName": "Yarkur"
+        },
+        {
+          "lgaCode": "182",
+          "lgaName": "Odubra"
+        },
+        {
+          "lgaCode": "183",
+          "lgaName": "Boki"
+        },
+        {
+          "lgaCode": "184",
+          "lgaName": "Ogoja"
+        },
+        {
+          "lgaCode": "185",
+          "lgaName": "Yala"
+        },
+        {
+          "lgaCode": "186",
+          "lgaName": "Obanliku"
+        },
+        {
+          "lgaCode": "187",
+          "lgaName": "Obudu"
+        },
+        {
+          "lgaCode": "188",
+          "lgaName": "Calabar South"
+        },
+        {
+          "lgaCode": "189",
+          "lgaName": "Etung"
+        },
+        {
+          "lgaCode": "190",
+          "lgaName": "Bekwara"
+        },
+        {
+          "lgaCode": "191",
+          "lgaName": "Bakassi"
+        },
+        {
+          "lgaCode": "192",
+          "lgaName": "Calabar Municipality"
+        }
+      ]
+    },
+    {
+      "stateCode": "11",
+      "stateName": "Delta",
+      "lgas":
+      [
+        {
+          "lgaCode": "193",
+          "lgaName": "Oshimili"
+        },
+        {
+          "lgaCode": "194",
+          "lgaName": "Aniocha"
+        },
+        {
+          "lgaCode": "195",
+          "lgaName": "Aniocha South"
+        },
+        {
+          "lgaCode": "196",
+          "lgaName": "Ika South"
+        },
+        {
+          "lgaCode": "197",
+          "lgaName": "Ika North-East"
+        },
+        {
+          "lgaCode": "198",
+          "lgaName": "Ndokwa West"
+        },
+        {
+          "lgaCode": "199",
+          "lgaName": "Ndokwa East"
+        },
+        {
+          "lgaCode": "200",
+          "lgaName": "Isoko south"
+        },
+        {
+          "lgaCode": "201",
+          "lgaName": "Isoko North"
+        },
+        {
+          "lgaCode": "202",
+          "lgaName": "Bomadi"
+        },
+        {
+          "lgaCode": "203",
+          "lgaName": "Burutu"
+        },
+        {
+          "lgaCode": "204",
+          "lgaName": "Ughelli South"
+        },
+        {
+          "lgaCode": "205",
+          "lgaName": "Ughelli North"
+        },
+        {
+          "lgaCode": "206",
+          "lgaName": "Ethiope West"
+        },
+        {
+          "lgaCode": "207",
+          "lgaName": "Ethiope East"
+        },
+        {
+          "lgaCode": "208",
+          "lgaName": "Sapele"
+        },
+        {
+          "lgaCode": "209",
+          "lgaName": "Okpe"
+        },
+        {
+          "lgaCode": "210",
+          "lgaName": "Warri North"
+        },
+        {
+          "lgaCode": "211",
+          "lgaName": "Warri South"
+        },
+        {
+          "lgaCode": "212",
+          "lgaName": "Uvwie"
+        },
+        {
+          "lgaCode": "213",
+          "lgaName": "Udu"
+        },
+        {
+          "lgaCode": "214",
+          "lgaName": "Warri Central"
+        },
+        {
+          "lgaCode": "215",
+          "lgaName": "Ukwani"
+        },
+        {
+          "lgaCode": "216",
+          "lgaName": "Oshimili North"
+        },
+        {
+          "lgaCode": "217",
+          "lgaName": "Patani"
+        }
+      ]
+    },
+    {
+      "stateCode": "12",
+      "stateName": "Ebonyi",
+      "lgas":
+      [
+        {
+          "lgaCode": "218",
+          "lgaName": "Afikpo South"
+        },
+        {
+          "lgaCode": "219",
+          "lgaName": "Afikpo North"
+        },
+        {
+          "lgaCode": "220",
+          "lgaName": "Onicha"
+        },
+        {
+          "lgaCode": "221",
+          "lgaName": "Ohaozara"
+        },
+        {
+          "lgaCode": "222",
+          "lgaName": "Abakaliki"
+        },
+        {
+          "lgaCode": "223",
+          "lgaName": "Ishielu"
+        },
+        {
+          "lgaCode": "224",
+          "lgaName": "lkwo"
+        },
+        {
+          "lgaCode": "225",
+          "lgaName": "Ezza"
+        },
+        {
+          "lgaCode": "226",
+          "lgaName": "Ezza South"
+        },
+        {
+          "lgaCode": "227",
+          "lgaName": "Ohaukwu"
+        },
+        {
+          "lgaCode": "228",
+          "lgaName": "Ebonyi"
+        },
+        {
+          "lgaCode": "229",
+          "lgaName": "Ivo"
+        }
+      ]
+    },
+    {
+      "stateCode": "13",
+      "stateName": "Edo",
+      "lgas":
+      [
+        {
+          "lgaCode": "230",
+          "lgaName": "Esan North-East"
+        },
+        {
+          "lgaCode": "231",
+          "lgaName": "Esan Central"
+        },
+        {
+          "lgaCode": "232",
+          "lgaName": "Esan West"
+        },
+        {
+          "lgaCode": "233",
+          "lgaName": "Egor"
+        },
+        {
+          "lgaCode": "234",
+          "lgaName": "Etsako West"
+        },
+        {
+          "lgaCode": "235",
+          "lgaName": "Akoko-Edo"
+        },
+        {
+          "lgaCode": "236",
+          "lgaName": "Etsako Central"
+        },
+        {
+          "lgaCode": "237",
+          "lgaName": "Igueben"
+        },
+        {
+          "lgaCode": "238",
+          "lgaName": "Oredo"
+        },
+        {
+          "lgaCode": "239",
+          "lgaName": "Ovia SouthWest"
+        },
+        {
+          "lgaCode": "240",
+          "lgaName": "Ovia North-East"
+        },
+        {
+          "lgaCode": "241",
+          "lgaName": "Orhionwon"
+        },
+        {
+          "lgaCode": "242",
+          "lgaName": "Uhunmwonde"
+        },
+        {
+          "lgaCode": "243",
+          "lgaName": "Etsako East"
+        },
+        {
+          "lgaCode": "244",
+          "lgaName": "Esan South-East"
+        }
+      ]
+    },
+    {
+      "stateCode": "14",
+      "stateName": "Ekiti",
+      "lgas":
+      [
+        {
+          "lgaCode": "245",
+          "lgaName": "Ado"
+        },
+        {
+          "lgaCode": "246",
+          "lgaName": "Ekiti-East"
+        },
+        {
+          "lgaCode": "247",
+          "lgaName": "Ekiti-West"
+        },
+        {
+          "lgaCode": "248",
+          "lgaName": "Emure/Ise/Orun"
+        },
+        {
+          "lgaCode": "249",
+          "lgaName": "Ekiti South-West"
+        },
+        {
+          "lgaCode": "250",
+          "lgaName": "Ikare"
+        },
+        {
+          "lgaCode": "251",
+          "lgaName": "Irepodun"
+        },
+        {
+          "lgaCode": "252",
+          "lgaName": "Ijero"
+        },
+        {
+          "lgaCode": "253",
+          "lgaName": "Ido/Osi"
+        },
+        {
+          "lgaCode": "254",
+          "lgaName": "Oye"
+        },
+        {
+          "lgaCode": "255",
+          "lgaName": "Ikole"
+        },
+        {
+          "lgaCode": "256",
+          "lgaName": "Moba"
+        },
+        {
+          "lgaCode": "257",
+          "lgaName": "Gbonyin"
+        },
+        {
+          "lgaCode": "258",
+          "lgaName": "Efon"
+        },
+        {
+          "lgaCode": "259",
+          "lgaName": "Ise/Orun"
+        },
+        {
+          "lgaCode": "260",
+          "lgaName": "Ilejemeje"
+        }
+      ]
+    },
+    {
+      "stateCode": "15",
+      "stateName": "Enugu",
+      "lgas":
+      [
+        {
+          "lgaCode": "261",
+          "lgaName": "Enugu South"
+        },
+        {
+          "lgaCode": "262",
+          "lgaName": "Igbo-Eze South"
+        },
+        {
+          "lgaCode": "263",
+          "lgaName": "Enugu North"
+        },
+        {
+          "lgaCode": "264",
+          "lgaName": "Nkanu"
+        },
+        {
+          "lgaCode": "265",
+          "lgaName": "Udi Agwu"
+        },
+        {
+          "lgaCode": "266",
+          "lgaName": "Oji-River"
+        },
+        {
+          "lgaCode": "267",
+          "lgaName": "Ezeagu"
+        },
+        {
+          "lgaCode": "268",
+          "lgaName": "IgboEze North"
+        },
+        {
+          "lgaCode": "269",
+          "lgaName": "Isi-Uzo"
+        },
+        {
+          "lgaCode": "270",
+          "lgaName": "Nsukka"
+        },
+        {
+          "lgaCode": "271",
+          "lgaName": "Igbo-Ekiti"
+        },
+        {
+          "lgaCode": "272",
+          "lgaName": "Uzo-Uwani"
+        },
+        {
+          "lgaCode": "273",
+          "lgaName": "Enugu Eas"
+        },
+        {
+          "lgaCode": "274",
+          "lgaName": "Aninri"
+        },
+        {
+          "lgaCode": "275",
+          "lgaName": "Nkanu East"
+        },
+        {
+          "lgaCode": "276",
+          "lgaName": "Udenu"
+        }
+      ]
+    },
+    {
+      "stateCode": "16",
+      "stateName": "Gombe",
+      "lgas":
+      [
+        {
+          "lgaCode": "277",
+          "lgaName": "Akko"
+        },
+        {
+          "lgaCode": "278",
+          "lgaName": "Balanga"
+        },
+        {
+          "lgaCode": "279",
+          "lgaName": "Billiri"
+        },
+        {
+          "lgaCode": "280",
+          "lgaName": "Dukku"
+        },
+        {
+          "lgaCode": "281",
+          "lgaName": "Kaltungo"
+        },
+        {
+          "lgaCode": "282",
+          "lgaName": "Kwami"
+        },
+        {
+          "lgaCode": "283",
+          "lgaName": "Shomgom"
+        },
+        {
+          "lgaCode": "284",
+          "lgaName": "Funakaye"
+        },
+        {
+          "lgaCode": "285",
+          "lgaName": "Gombe"
+        },
+        {
+          "lgaCode": "286",
+          "lgaName": "Nafada/Bajoga"
+        },
+        {
+          "lgaCode": "287",
+          "lgaName": "Yamaltu/Delta"
+        }
+      ]
+    },
+    {
+      "stateCode": "17",
+      "stateName": "Adamawa",
+      "lgas":
+      [
+        {
+          "lgaCode": "288",
+          "lgaName": "Aboh-Mbaise"
+        },
+        {
+          "lgaCode": "289",
+          "lgaName": "Ahiazu-Mbaise"
+        },
+        {
+          "lgaCode": "290",
+          "lgaName": "Ehime-Mbano"
+        },
+        {
+          "lgaCode": "291",
+          "lgaName": "Ezinihitte"
+        },
+        {
+          "lgaCode": "292",
+          "lgaName": "Ideato North"
+        },
+        {
+          "lgaCode": "293",
+          "lgaName": "Ideato South"
+        },
+        {
+          "lgaCode": "294",
+          "lgaName": "Ihitte/Uboma"
+        },
+        {
+          "lgaCode": "295",
+          "lgaName": "Ikeduru"
+        },
+        {
+          "lgaCode": "296",
+          "lgaName": "Isiala Mbano"
+        },
+        {
+          "lgaCode": "297",
+          "lgaName": "Isu"
+        },
+        {
+          "lgaCode": "298",
+          "lgaName": "Mbaitoli"
+        },
+        {
+          "lgaCode": "299",
+          "lgaName": "Mbaitoli"
+        },
+        {
+          "lgaCode": "300",
+          "lgaName": "Ngor-Okpala"
+        },
+        {
+          "lgaCode": "301",
+          "lgaName": "Njaba"
+        },
+        {
+          "lgaCode": "302",
+          "lgaName": "Nwangele"
+        },
+        {
+          "lgaCode": "303",
+          "lgaName": "Nkwerre"
+        },
+        {
+          "lgaCode": "304",
+          "lgaName": "Obowo"
+        },
+        {
+          "lgaCode": "305",
+          "lgaName": "Oguta"
+        },
+        {
+          "lgaCode": "306",
+          "lgaName": "Ohaji/Egbema"
+        },
+        {
+          "lgaCode": "307",
+          "lgaName": "Okigwe"
+        },
+        {
+          "lgaCode": "308",
+          "lgaName": "Orlu"
+        },
+        {
+          "lgaCode": "309",
+          "lgaName": "Orsu"
+        },
+        {
+          "lgaCode": "310",
+          "lgaName": "Oru East"
+        },
+        {
+          "lgaCode": "311",
+          "lgaName": "Oru West"
+        },
+        {
+          "lgaCode": "312",
+          "lgaName": "Owerri-Municipal"
+        },
+        {
+          "lgaCode": "313",
+          "lgaName": "Owerri North"
+        },
+        {
+          "lgaCode": "314",
+          "lgaName": "Owerri West"
+        }
+      ]
+    },
+    {
+      "stateCode": "18",
+      "stateName": "Jigawa",
+      "lgas":
+      [
+        {
+          "lgaCode": "315",
+          "lgaName": "Auyo"
+        },
+        {
+          "lgaCode": "316",
+          "lgaName": "Babura"
+        },
+        {
+          "lgaCode": "317",
+          "lgaName": "Birni Kudu"
+        },
+        {
+          "lgaCode": "318",
+          "lgaName": "Biriniwa"
+        },
+        {
+          "lgaCode": "319",
+          "lgaName": "Buji"
+        },
+        {
+          "lgaCode": "320",
+          "lgaName": "Dutse"
+        },
+        {
+          "lgaCode": "321",
+          "lgaName": "Gagarawa"
+        },
+        {
+          "lgaCode": "322",
+          "lgaName": "Garki"
+        },
+        {
+          "lgaCode": "323",
+          "lgaName": "Gumel"
+        },
+        {
+          "lgaCode": "324",
+          "lgaName": "Guri"
+        },
+        {
+          "lgaCode": "325",
+          "lgaName": "Gwaram"
+        },
+        {
+          "lgaCode": "326",
+          "lgaName": "Gwiwa"
+        },
+        {
+          "lgaCode": "327",
+          "lgaName": "Hadejia"
+        },
+        {
+          "lgaCode": "328",
+          "lgaName": "Jahun"
+        },
+        {
+          "lgaCode": "329",
+          "lgaName": "Kafin Hausa"
+        },
+        {
+          "lgaCode": "330",
+          "lgaName": "Kaugama Kazaure"
+        },
+        {
+          "lgaCode": "331",
+          "lgaName": "Kiri Kasamma"
+        },
+        {
+          "lgaCode": "332",
+          "lgaName": "Kiyawa"
+        },
+        {
+          "lgaCode": "333",
+          "lgaName": "Maigatari"
+        },
+        {
+          "lgaCode": "334",
+          "lgaName": "Malam Madori"
+        },
+        {
+          "lgaCode": "335",
+          "lgaName": "Miga"
+        },
+        {
+          "lgaCode": "336",
+          "lgaName": "Ringim"
+        },
+        {
+          "lgaCode": "337",
+          "lgaName": "Roni"
+        },
+        {
+          "lgaCode": "338",
+          "lgaName": "Sule-Tankarkar"
+        },
+        {
+          "lgaCode": "339",
+          "lgaName": "Taura?"
+        },
+        {
+          "lgaCode": "340",
+          "lgaName": "Yankwashi"
+        }
+      ]
+    },
+    {
+      "stateCode": "19",
+      "stateName": "Kaduna",
+      "lgas":
+      [
+        {
+          "lgaCode": "341",
+          "lgaName": "Birni-Gwari"
+        },
+        {
+          "lgaCode": "342",
+          "lgaName": "Chikun"
+        },
+        {
+          "lgaCode": "343",
+          "lgaName": "Giwa"
+        },
+        {
+          "lgaCode": "344",
+          "lgaName": "Igabi"
+        },
+        {
+          "lgaCode": "345",
+          "lgaName": "Ikara"
+        },
+        {
+          "lgaCode": "346",
+          "lgaName": "jaba"
+        },
+        {
+          "lgaCode": "347",
+          "lgaName": "Jema'a"
+        },
+        {
+          "lgaCode": "348",
+          "lgaName": "Kachia"
+        },
+        {
+          "lgaCode": "349",
+          "lgaName": "Kaduna North"
+        },
+        {
+          "lgaCode": "350",
+          "lgaName": "Kaduna South"
+        },
+        {
+          "lgaCode": "351",
+          "lgaName": "Kagarko"
+        },
+        {
+          "lgaCode": "352",
+          "lgaName": "Kajuru"
+        },
+        {
+          "lgaCode": "353",
+          "lgaName": "Kaura"
+        },
+        {
+          "lgaCode": "354",
+          "lgaName": "Kauru"
+        },
+        {
+          "lgaCode": "355",
+          "lgaName": "Kubau"
+        },
+        {
+          "lgaCode": "356",
+          "lgaName": "Kudan"
+        },
+        {
+          "lgaCode": "357",
+          "lgaName": "Lere"
+        },
+        {
+          "lgaCode": "358",
+          "lgaName": "Makarfi"
+        },
+        {
+          "lgaCode": "359",
+          "lgaName": "Sabon-Gari"
+        },
+        {
+          "lgaCode": "360",
+          "lgaName": "Sanga"
+        },
+        {
+          "lgaCode": "361",
+          "lgaName": "Soba"
+        },
+        {
+          "lgaCode": "362",
+          "lgaName": "Zango-Kataf"
+        },
+        {
+          "lgaCode": "363",
+          "lgaName": "Zaria"
+        }
+      ]
+    },
+    {
+      "stateCode": "20",
+      "stateName": "Kano",
+      "lgas":
+      [
+        {
+          "lgaCode": "364",
+          "lgaName": "Ajingi"
+        },
+        {
+          "lgaCode": "365",
+          "lgaName": "Albasu"
+        },
+        {
+          "lgaCode": "366",
+          "lgaName": "Bagwai"
+        },
+        {
+          "lgaCode": "367",
+          "lgaName": "Bebeji"
+        },
+        {
+          "lgaCode": "368",
+          "lgaName": "Bichi"
+        },
+        {
+          "lgaCode": "369",
+          "lgaName": "Bunkure"
+        },
+        {
+          "lgaCode": "370",
+          "lgaName": "Dala"
+        },
+        {
+          "lgaCode": "371",
+          "lgaName": "Dambatta"
+        },
+        {
+          "lgaCode": "372",
+          "lgaName": "Dawakin Kudu"
+        },
+        {
+          "lgaCode": "373",
+          "lgaName": "Dawakin Tofa"
+        },
+        {
+          "lgaCode": "374",
+          "lgaName": "Doguwa"
+        },
+        {
+          "lgaCode": "375",
+          "lgaName": "Fagge"
+        },
+        {
+          "lgaCode": "376",
+          "lgaName": "Gabasawa"
+        },
+        {
+          "lgaCode": "377",
+          "lgaName": "Garko"
+        },
+        {
+          "lgaCode": "378",
+          "lgaName": "Garum"
+        },
+        {
+          "lgaCode": "379",
+          "lgaName": "Mallam"
+        },
+        {
+          "lgaCode": "380",
+          "lgaName": "Gaya"
+        },
+        {
+          "lgaCode": "381",
+          "lgaName": "Gezawa"
+        },
+        {
+          "lgaCode": "382",
+          "lgaName": "Gwale"
+        },
+        {
+          "lgaCode": "383",
+          "lgaName": "Gwarzo"
+        },
+        {
+          "lgaCode": "384",
+          "lgaName": "Kabo"
+        },
+        {
+          "lgaCode": "385",
+          "lgaName": "Kano Municipal"
+        },
+        {
+          "lgaCode": "386",
+          "lgaName": "Karaye"
+        },
+        {
+          "lgaCode": "387",
+          "lgaName": "Kibiya"
+        },
+        {
+          "lgaCode": "388",
+          "lgaName": "Kiru"
+        },
+        {
+          "lgaCode": "389",
+          "lgaName": "kumbotso"
+        },
+        {
+          "lgaCode": "390",
+          "lgaName": "Kunchi"
+        },
+        {
+          "lgaCode": "391",
+          "lgaName": "Kura"
+        },
+        {
+          "lgaCode": "392",
+          "lgaName": "Madobi"
+        },
+        {
+          "lgaCode": "393",
+          "lgaName": "Makoda"
+        },
+        {
+          "lgaCode": "394",
+          "lgaName": "Minjibir"
+        },
+        {
+          "lgaCode": "395",
+          "lgaName": "Nasarawa"
+        },
+        {
+          "lgaCode": "396",
+          "lgaName": "Rano"
+        },
+        {
+          "lgaCode": "397",
+          "lgaName": "Rimin Gado"
+        },
+        {
+          "lgaCode": "398",
+          "lgaName": "Rogo"
+        },
+        {
+          "lgaCode": "399",
+          "lgaName": "Shanono"
+        },
+        {
+          "lgaCode": "400",
+          "lgaName": "Sumaila"
+        },
+        {
+          "lgaCode": "401",
+          "lgaName": "Takali"
+        },
+        {
+          "lgaCode": "402",
+          "lgaName": "Tarauni"
+        },
+        {
+          "lgaCode": "403",
+          "lgaName": "Tofa"
+        },
+        {
+          "lgaCode": "404",
+          "lgaName": "Tsanyawa"
+        },
+        {
+          "lgaCode": "405",
+          "lgaName": "Tudun Wada"
+        },
+        {
+          "lgaCode": "406",
+          "lgaName": "Ungogo"
+        },
+        {
+          "lgaCode": "407",
+          "lgaName": "Warawa"
+        },
+        {
+          "lgaCode": "408",
+          "lgaName": "Wudil"
+        }
+      ]
+    },
+    {
+      "stateCode": "21",
+      "stateName": "Katsina",
+      "lgas":
+      [
+        {
+          "lgaCode": "409",
+          "lgaName": "Bakori"
+        },
+        {
+          "lgaCode": "410",
+          "lgaName": "Batagarawa"
+        },
+        {
+          "lgaCode": "411",
+          "lgaName": "Batsari"
+        },
+        {
+          "lgaCode": "412",
+          "lgaName": "Baure"
+        },
+        {
+          "lgaCode": "413",
+          "lgaName": "Bindawa"
+        },
+        {
+          "lgaCode": "414",
+          "lgaName": "Charanchi"
+        },
+        {
+          "lgaCode": "415",
+          "lgaName": "Dandume"
+        },
+        {
+          "lgaCode": "416",
+          "lgaName": "Danja"
+        },
+        {
+          "lgaCode": "417",
+          "lgaName": "Dan Musa"
+        },
+        {
+          "lgaCode": "418",
+          "lgaName": "Daura"
+        },
+        {
+          "lgaCode": "419",
+          "lgaName": "Dutsi"
+        },
+        {
+          "lgaCode": "420",
+          "lgaName": "Dutsin-Ma"
+        },
+        {
+          "lgaCode": "421",
+          "lgaName": "Faskari"
+        },
+        {
+          "lgaCode": "422",
+          "lgaName": "Funtua"
+        },
+        {
+          "lgaCode": "423",
+          "lgaName": "Ingawa"
+        },
+        {
+          "lgaCode": "424",
+          "lgaName": "Jibia"
+        },
+        {
+          "lgaCode": "425",
+          "lgaName": "Kafur"
+        },
+        {
+          "lgaCode": "426",
+          "lgaName": "Kaita"
+        },
+        {
+          "lgaCode": "427",
+          "lgaName": "Kankara"
+        },
+        {
+          "lgaCode": "428",
+          "lgaName": "Kankia"
+        },
+        {
+          "lgaCode": "429",
+          "lgaName": "Katsina"
+        },
+        {
+          "lgaCode": "430",
+          "lgaName": "Kurfi"
+        },
+        {
+          "lgaCode": "431",
+          "lgaName": "Kusada"
+        },
+        {
+          "lgaCode": "432",
+          "lgaName": "Mai'Adua"
+        },
+        {
+          "lgaCode": "433",
+          "lgaName": "Malumfashi"
+        },
+        {
+          "lgaCode": "434",
+          "lgaName": "Mani"
+        },
+        {
+          "lgaCode": "435",
+          "lgaName": "Mashi"
+        },
+        {
+          "lgaCode": "436",
+          "lgaName": "Matazuu"
+        },
+        {
+          "lgaCode": "437",
+          "lgaName": "Musawa"
+        },
+        {
+          "lgaCode": "438",
+          "lgaName": "Rimi"
+        },
+        {
+          "lgaCode": "439",
+          "lgaName": "Sabuwa"
+        },
+        {
+          "lgaCode": "440",
+          "lgaName": "Safana"
+        },
+        {
+          "lgaCode": "441",
+          "lgaName": "Sandamu"
+        },
+        {
+          "lgaCode": "442",
+          "lgaName": "Zango"
+        }
+      ]
+    },
+    {
+      "stateCode": "22",
+      "stateName": "Kebbi",
+      "lgas":
+      [
+        {
+          "lgaCode": "443",
+          "lgaName": "Aleiro"
+        },
+        {
+          "lgaCode": "444",
+          "lgaName": "Arewa-Dandi"
+        },
+        {
+          "lgaCode": "445",
+          "lgaName": "Argungu"
+        },
+        {
+          "lgaCode": "446",
+          "lgaName": "Augie"
+        },
+        {
+          "lgaCode": "447",
+          "lgaName": "Bagudo"
+        },
+        {
+          "lgaCode": "448",
+          "lgaName": "Birnin Kebbi"
+        },
+        {
+          "lgaCode": "449",
+          "lgaName": "Bunza"
+        },
+        {
+          "lgaCode": "450",
+          "lgaName": "Dandi"
+        },
+        {
+          "lgaCode": "451",
+          "lgaName": "Fakai"
+        },
+        {
+          "lgaCode": "452",
+          "lgaName": "wandu"
+        },
+        {
+          "lgaCode": "453",
+          "lgaName": "Jega"
+        },
+        {
+          "lgaCode": "454",
+          "lgaName": "Kalgo"
+        },
+        {
+          "lgaCode": "455",
+          "lgaName": "Koko/Besse"
+        },
+        {
+          "lgaCode": "456",
+          "lgaName": "Maiyama"
+        },
+        {
+          "lgaCode": "457",
+          "lgaName": "Ngaski"
+        },
+        {
+          "lgaCode": "458",
+          "lgaName": "Sakaba"
+        },
+        {
+          "lgaCode": "459",
+          "lgaName": "Shanga"
+        },
+        {
+          "lgaCode": "460",
+          "lgaName": "Suru"
+        },
+        {
+          "lgaCode": "461",
+          "lgaName": "Wasagu/Danko"
+        },
+        {
+          "lgaCode": "462",
+          "lgaName": "Yauri"
+        },
+        {
+          "lgaCode": "463",
+          "lgaName": "Zuru"
+        }
+      ]
+    },
+    {
+      "stateCode": "23",
+      "stateName": "Kogi",
+      "lgas":
+      [
+        {
+          "lgaCode": "464",
+          "lgaName": "Adavi"
+        },
+        {
+          "lgaCode": "465",
+          "lgaName": "Ajaokuta"
+        },
+        {
+          "lgaCode": "466",
+          "lgaName": "Ankpa"
+        },
+        {
+          "lgaCode": "467",
+          "lgaName": "Bassa"
+        },
+        {
+          "lgaCode": "468",
+          "lgaName": "Dekina"
+        },
+        {
+          "lgaCode": "469",
+          "lgaName": "Ibaji"
+        },
+        {
+          "lgaCode": "470",
+          "lgaName": "Idah"
+        },
+        {
+          "lgaCode": "471",
+          "lgaName": "Igalamela-Odolu"
+        },
+        {
+          "lgaCode": "472",
+          "lgaName": "Ijumu"
+        },
+        {
+          "lgaCode": "473",
+          "lgaName": "Kabba/Bunu"
+        },
+        {
+          "lgaCode": "474",
+          "lgaName": "Kogi"
+        },
+        {
+          "lgaCode": "475",
+          "lgaName": "Lokoja"
+        },
+        {
+          "lgaCode": "476",
+          "lgaName": "Mopa-Muro"
+        },
+        {
+          "lgaCode": "477",
+          "lgaName": "Ofu"
+        },
+        {
+          "lgaCode": "478",
+          "lgaName": "Ogori/Mangongo"
+        },
+        {
+          "lgaCode": "479",
+          "lgaName": "Okehi"
+        },
+        {
+          "lgaCode": "480",
+          "lgaName": "Okene"
+        },
+        {
+          "lgaCode": "481",
+          "lgaName": "Olamabolo"
+        },
+        {
+          "lgaCode": "482",
+          "lgaName": "Omala"
+        },
+        {
+          "lgaCode": "483",
+          "lgaName": "Yagba East"
+        },
+        {
+          "lgaCode": "484",
+          "lgaName": "Yagba West"
+        }
+      ]
+    },
+    {
+      "stateCode": "24",
+      "stateName": "Kwara",
+      "lgas":
+      [
+        {
+          "lgaCode": "485",
+          "lgaName": "Asa"
+        },
+        {
+          "lgaCode": "486",
+          "lgaName": "Baruten"
+        },
+        {
+          "lgaCode": "487",
+          "lgaName": "Edu"
+        },
+        {
+          "lgaCode": "488",
+          "lgaName": "Ekiti"
+        },
+        {
+          "lgaCode": "489",
+          "lgaName": "Ifelodun"
+        },
+        {
+          "lgaCode": "490",
+          "lgaName": "Ilorin East"
+        },
+        {
+          "lgaCode": "491",
+          "lgaName": "Ilorin West"
+        },
+        {
+          "lgaCode": "492",
+          "lgaName": "Irepodun"
+        },
+        {
+          "lgaCode": "493",
+          "lgaName": "Isin"
+        },
+        {
+          "lgaCode": "494",
+          "lgaName": "Kaiama"
+        },
+        {
+          "lgaCode": "495",
+          "lgaName": "Moro"
+        },
+        {
+          "lgaCode": "496",
+          "lgaName": "Offa"
+        },
+        {
+          "lgaCode": "497",
+          "lgaName": "Oke-Ero"
+        },
+        {
+          "lgaCode": "498",
+          "lgaName": "Oyun"
+        },
+        {
+          "lgaCode": "499",
+          "lgaName": "Pategi"
+        }
+      ]
+    },
+    {
+      "stateCode": "25",
+      "stateName": "Lagos",
+      "lgas":
+      [
+        {
+          "lgaCode": "500",
+          "lgaName": "Agege"
+        },
+        {
+          "lgaCode": "501",
+          "lgaName": "Ajeromi-Ifelodun"
+        },
+        {
+          "lgaCode": "502",
+          "lgaName": "Alimosho"
+        },
+        {
+          "lgaCode": "503",
+          "lgaName": "Amuwo-Odofin"
+        },
+        {
+          "lgaCode": "504",
+          "lgaName": "Apapa"
+        },
+        {
+          "lgaCode": "505",
+          "lgaName": "Badagry"
+        },
+        {
+          "lgaCode": "506",
+          "lgaName": "Epe"
+        },
+        {
+          "lgaCode": "507",
+          "lgaName": "Eti-Osa"
+        },
+        {
+          "lgaCode": "508",
+          "lgaName": "Ibeju/Lekki"
+        },
+        {
+          "lgaCode": "509",
+          "lgaName": "Ifako-Ijaye"
+        },
+        {
+          "lgaCode": "510",
+          "lgaName": "Ikeja"
+        },
+        {
+          "lgaCode": "511",
+          "lgaName": "Ikorodu"
+        },
+        {
+          "lgaCode": "512",
+          "lgaName": "Kosofe"
+        },
+        {
+          "lgaCode": "513",
+          "lgaName": "Lagos Island"
+        },
+        {
+          "lgaCode": "514",
+          "lgaName": "Lagos Mainland"
+        },
+        {
+          "lgaCode": "515",
+          "lgaName": "Mushin"
+        },
+        {
+          "lgaCode": "516",
+          "lgaName": "Ojo"
+        },
+        {
+          "lgaCode": "517",
+          "lgaName": "Oshodi-Isolo"
+        },
+        {
+          "lgaCode": "518",
+          "lgaName": "Shomolu"
+        },
+        {
+          "lgaCode": "519",
+          "lgaName": "Surulere"
+        }
+      ]
+    },
+    {
+      "stateCode": "26",
+      "stateName": "Nasarawa",
+      "lgas":
+      [
+        {
+          "lgaCode": "520",
+          "lgaName": "Akwanga"
+        },
+        {
+          "lgaCode": "521",
+          "lgaName": "Awe"
+        },
+        {
+          "lgaCode": "522",
+          "lgaName": "Doma"
+        },
+        {
+          "lgaCode": "523",
+          "lgaName": "Karu"
+        },
+        {
+          "lgaCode": "524",
+          "lgaName": "Keana"
+        },
+        {
+          "lgaCode": "525",
+          "lgaName": "Keffi"
+        },
+        {
+          "lgaCode": "526",
+          "lgaName": "Kokona"
+        },
+        {
+          "lgaCode": "527",
+          "lgaName": "Lafia"
+        },
+        {
+          "lgaCode": "528",
+          "lgaName": "Nasarawa"
+        },
+        {
+          "lgaCode": "529",
+          "lgaName": "Nasarawa-Eggon"
+        },
+        {
+          "lgaCode": "530",
+          "lgaName": "Obi"
+        },
+        {
+          "lgaCode": "531",
+          "lgaName": "Toto"
+        },
+        {
+          "lgaCode": "532",
+          "lgaName": "Wamba"
+        }
+      ]
+    },
+    {
+      "stateCode": "27",
+      "stateName": "Niger",
+      "lgas":
+      [
+        {
+          "lgaCode": "533",
+          "lgaName": "Agaie"
+        },
+        {
+          "lgaCode": "534",
+          "lgaName": "Agwara"
+        },
+        {
+          "lgaCode": "535",
+          "lgaName": "Bida"
+        },
+        {
+          "lgaCode": "536",
+          "lgaName": "Borgu"
+        },
+        {
+          "lgaCode": "537",
+          "lgaName": "Bosso"
+        },
+        {
+          "lgaCode": "538",
+          "lgaName": "Chanchaga"
+        },
+        {
+          "lgaCode": "539",
+          "lgaName": "Edati"
+        },
+        {
+          "lgaCode": "540",
+          "lgaName": "Gbako"
+        },
+        {
+          "lgaCode": "541",
+          "lgaName": "Gurara"
+        },
+        {
+          "lgaCode": "542",
+          "lgaName": "Katcha"
+        },
+        {
+          "lgaCode": "543",
+          "lgaName": "Kontagora"
+        },
+        {
+          "lgaCode": "544",
+          "lgaName": "Lapai"
+        },
+        {
+          "lgaCode": "545",
+          "lgaName": "Lavun"
+        },
+        {
+          "lgaCode": "546",
+          "lgaName": "Magama"
+        },
+        {
+          "lgaCode": "547",
+          "lgaName": "Mariga"
+        },
+        {
+          "lgaCode": "548",
+          "lgaName": "Mashegu"
+        },
+        {
+          "lgaCode": "549",
+          "lgaName": "Mokwa"
+        },
+        {
+          "lgaCode": "550",
+          "lgaName": "Muya"
+        },
+        {
+          "lgaCode": "551",
+          "lgaName": "Pailoro"
+        },
+        {
+          "lgaCode": "552",
+          "lgaName": "Rafi"
+        },
+        {
+          "lgaCode": "553",
+          "lgaName": "Rijau"
+        },
+        {
+          "lgaCode": "554",
+          "lgaName": "Shiroro"
+        },
+        {
+          "lgaCode": "555",
+          "lgaName": "Suleja"
+        },
+        {
+          "lgaCode": "556",
+          "lgaName": "Tafa"
+        },
+        {
+          "lgaCode": "557",
+          "lgaName": "Wushishi"
+        }
+      ]
+    },
+    {
+      "stateCode": "28",
+      "stateName": "Ogun",
+      "lgas":
+      [
+        {
+          "lgaCode": "558",
+          "lgaName": "Abeokuta North"
+        },
+        {
+          "lgaCode": "559",
+          "lgaName": "Abeokuta South"
+        },
+        {
+          "lgaCode": "560",
+          "lgaName": "Ado-Odo/Ota"
+        },
+        {
+          "lgaCode": "561",
+          "lgaName": "Egbado North"
+        },
+        {
+          "lgaCode": "562",
+          "lgaName": "Egbado South"
+        },
+        {
+          "lgaCode": "563",
+          "lgaName": "Ewekoro"
+        },
+        {
+          "lgaCode": "564",
+          "lgaName": "Ifo"
+        },
+        {
+          "lgaCode": "565",
+          "lgaName": "Ijebu East"
+        },
+        {
+          "lgaCode": "566",
+          "lgaName": "Ijebu North"
+        },
+        {
+          "lgaCode": "567",
+          "lgaName": "Ijebu North East"
+        },
+        {
+          "lgaCode": "568",
+          "lgaName": "Ijebu Ode"
+        },
+        {
+          "lgaCode": "569",
+          "lgaName": "Ikenne"
+        },
+        {
+          "lgaCode": "570",
+          "lgaName": "Imeko-Afon"
+        },
+        {
+          "lgaCode": "571",
+          "lgaName": "Ipokia"
+        },
+        {
+          "lgaCode": "572",
+          "lgaName": "Obafemi-Owode"
+        },
+        {
+          "lgaCode": "573",
+          "lgaName": "Ogun Waterside"
+        },
+        {
+          "lgaCode": "574",
+          "lgaName": "Odeda"
+        },
+        {
+          "lgaCode": "575",
+          "lgaName": "Odogbolu"
+        },
+        {
+          "lgaCode": "576",
+          "lgaName": "Remo North"
+        },
+        {
+          "lgaCode": "577",
+          "lgaName": "Shagamu"
+        }
+      ]
+    },
+    {
+      "stateCode": "29",
+      "stateName": "Ondo",
+      "lgas":
+      [
+        {
+          "lgaCode": "578",
+          "lgaName": "Akoko North East"
+        },
+        {
+          "lgaCode": "579",
+          "lgaName": "Akoko North West"
+        },
+        {
+          "lgaCode": "580",
+          "lgaName": "Akoko South Akure East"
+        },
+        {
+          "lgaCode": "581",
+          "lgaName": "Akoko South West"
+        },
+        {
+          "lgaCode": "582",
+          "lgaName": "Akure North"
+        },
+        {
+          "lgaCode": "583",
+          "lgaName": "Akure South"
+        },
+        {
+          "lgaCode": "584",
+          "lgaName": "Ese-Odo"
+        },
+        {
+          "lgaCode": "585",
+          "lgaName": "Idanre"
+        },
+        {
+          "lgaCode": "586",
+          "lgaName": "Ifedore"
+        },
+        {
+          "lgaCode": "587",
+          "lgaName": "Ilaje"
+        },
+        {
+          "lgaCode": "588",
+          "lgaName": "Ile-Oluji"
+        },
+        {
+          "lgaCode": "589",
+          "lgaName": "Okeigbo"
+        },
+        {
+          "lgaCode": "590",
+          "lgaName": "Irele"
+        },
+        {
+          "lgaCode": "591",
+          "lgaName": "Odigbo"
+        },
+        {
+          "lgaCode": "592",
+          "lgaName": "Okitipupa"
+        },
+        {
+          "lgaCode": "593",
+          "lgaName": "Ondo East"
+        },
+        {
+          "lgaCode": "594",
+          "lgaName": "Ondo West"
+        },
+        {
+          "lgaCode": "595",
+          "lgaName": "Ose"
+        },
+        {
+          "lgaCode": "596",
+          "lgaName": "Owo"
+        }
+      ]
+    },
+    {
+      "stateCode": "30",
+      "stateName": "Osun",
+      "lgas":
+      [
+        {
+          "lgaCode": "597",
+          "lgaName": "Aiyedade"
+        },
+        {
+          "lgaCode": "598",
+          "lgaName": "Aiyedire"
+        },
+        {
+          "lgaCode": "599",
+          "lgaName": "Atakumosa East"
+        },
+        {
+          "lgaCode": "600",
+          "lgaName": "Atakumosa West"
+        },
+        {
+          "lgaCode": "601",
+          "lgaName": "Boluwaduro"
+        },
+        {
+          "lgaCode": "602",
+          "lgaName": "Boripe"
+        },
+        {
+          "lgaCode": "603",
+          "lgaName": "Ede North"
+        },
+        {
+          "lgaCode": "604",
+          "lgaName": "Ede South"
+        },
+        {
+          "lgaCode": "605",
+          "lgaName": "Egbedore"
+        },
+        {
+          "lgaCode": "606",
+          "lgaName": "Ejigbo"
+        },
+        {
+          "lgaCode": "607",
+          "lgaName": "Ife Central"
+        },
+        {
+          "lgaCode": "608",
+          "lgaName": "Ife East"
+        },
+        {
+          "lgaCode": "609",
+          "lgaName": "Ife North"
+        },
+        {
+          "lgaCode": "610",
+          "lgaName": "Ife South"
+        },
+        {
+          "lgaCode": "611",
+          "lgaName": "Ifedayo"
+        },
+        {
+          "lgaCode": "612",
+          "lgaName": "Ifelodun"
+        },
+        {
+          "lgaCode": "613",
+          "lgaName": "Ila"
+        },
+        {
+          "lgaCode": "614",
+          "lgaName": "Ilesha East"
+        },
+        {
+          "lgaCode": "615",
+          "lgaName": "Ilesha West"
+        },
+        {
+          "lgaCode": "616",
+          "lgaName": "Irepodun"
+        },
+        {
+          "lgaCode": "617",
+          "lgaName": "Irewole"
+        },
+        {
+          "lgaCode": "618",
+          "lgaName": "Isokan"
+        },
+        {
+          "lgaCode": "619",
+          "lgaName": "Iwo"
+        },
+        {
+          "lgaCode": "620",
+          "lgaName": "Obokun"
+        },
+        {
+          "lgaCode": "621",
+          "lgaName": "Odo-Otin"
+        },
+        {
+          "lgaCode": "622",
+          "lgaName": "Ola-Oluwa"
+        },
+        {
+          "lgaCode": "623",
+          "lgaName": "Olorunda"
+        },
+        {
+          "lgaCode": "624",
+          "lgaName": "Oriade"
+        },
+        {
+          "lgaCode": "625",
+          "lgaName": "Orolu"
+        },
+        {
+          "lgaCode": "626",
+          "lgaName": "Osogbo"
+        }
+      ]
+    },
+    {
+      "stateCode": "31",
+      "stateName": "Oyo",
+      "lgas":
+      [
+        {
+          "lgaCode": "627",
+          "lgaName": "Afijio"
+        },
+        {
+          "lgaCode": "628",
+          "lgaName": "Akinyele"
+        },
+        {
+          "lgaCode": "629",
+          "lgaName": "Atiba"
+        },
+        {
+          "lgaCode": "630",
+          "lgaName": "Atigbo"
+        },
+        {
+          "lgaCode": "631",
+          "lgaName": "Egbeda"
+        },
+        {
+          "lgaCode": "632",
+          "lgaName": "IbadanCentral"
+        },
+        {
+          "lgaCode": "633",
+          "lgaName": "Ibadan North"
+        },
+        {
+          "lgaCode": "634",
+          "lgaName": "Ibadan North West"
+        },
+        {
+          "lgaCode": "635",
+          "lgaName": "Ibadan South East"
+        },
+        {
+          "lgaCode": "636",
+          "lgaName": "Ibadan South West"
+        },
+        {
+          "lgaCode": "637",
+          "lgaName": "Ibarapa Central"
+        },
+        {
+          "lgaCode": "638",
+          "lgaName": "Ibarapa East"
+        },
+        {
+          "lgaCode": "639",
+          "lgaName": "Ibarapa North"
+        },
+        {
+          "lgaCode": "640",
+          "lgaName": "Ido"
+        },
+        {
+          "lgaCode": "641",
+          "lgaName": "Irepo"
+        },
+        {
+          "lgaCode": "642",
+          "lgaName": "Iseyin"
+        },
+        {
+          "lgaCode": "643",
+          "lgaName": "Itesiwaju"
+        },
+        {
+          "lgaCode": "644",
+          "lgaName": "Iwajowa"
+        },
+        {
+          "lgaCode": "645",
+          "lgaName": "Kajola"
+        },
+        {
+          "lgaCode": "646",
+          "lgaName": "Lagelu Ogbomosho North"
+        },
+        {
+          "lgaCode": "647",
+          "lgaName": "Ogbmosho South"
+        },
+        {
+          "lgaCode": "648",
+          "lgaName": "Ogo Oluwa"
+        },
+        {
+          "lgaCode": "649",
+          "lgaName": "Olorunsogo"
+        },
+        {
+          "lgaCode": "650",
+          "lgaName": "Oluyole"
+        },
+        {
+          "lgaCode": "651",
+          "lgaName": "Ona-Ara"
+        },
+        {
+          "lgaCode": "652",
+          "lgaName": "Orelope"
+        },
+        {
+          "lgaCode": "653",
+          "lgaName": "Ori Ire"
+        },
+        {
+          "lgaCode": "654",
+          "lgaName": "Oyo East"
+        },
+        {
+          "lgaCode": "655",
+          "lgaName": "Oyo West"
+        },
+        {
+          "lgaCode": "656",
+          "lgaName": "Saki East"
+        },
+        {
+          "lgaCode": "657",
+          "lgaName": "Saki West"
+        },
+        {
+          "lgaCode": "658",
+          "lgaName": "Surulere"
+        }
+      ]
+    },
+    {
+      "stateCode": "32",
+      "stateName": "Plateau",
+      "lgas":
+      [
+        {
+          "lgaCode": "659",
+          "lgaName": "Barikin Ladi"
+        },
+        {
+          "lgaCode": "660",
+          "lgaName": "Bassa"
+        },
+        {
+          "lgaCode": "661",
+          "lgaName": "Bokkos"
+        },
+        {
+          "lgaCode": "662",
+          "lgaName": "Jos East"
+        },
+        {
+          "lgaCode": "663",
+          "lgaName": "Jos North"
+        },
+        {
+          "lgaCode": "664",
+          "lgaName": "Jos South"
+        },
+        {
+          "lgaCode": "665",
+          "lgaName": "Kanam"
+        },
+        {
+          "lgaCode": "666",
+          "lgaName": "Kanke"
+        },
+        {
+          "lgaCode": "667",
+          "lgaName": "Langtang North"
+        },
+        {
+          "lgaCode": "668",
+          "lgaName": "Langtang South"
+        },
+        {
+          "lgaCode": "669",
+          "lgaName": "Mangu"
+        },
+        {
+          "lgaCode": "670",
+          "lgaName": "Mikang"
+        },
+        {
+          "lgaCode": "671",
+          "lgaName": "Pankshin"
+        },
+        {
+          "lgaCode": "672",
+          "lgaName": "Qua'an Pan"
+        },
+        {
+          "lgaCode": "673",
+          "lgaName": "Riyom"
+        },
+        {
+          "lgaCode": "674",
+          "lgaName": "Shendam"
+        },
+        {
+          "lgaCode": "675",
+          "lgaName": "Wase"
+        }
+      ]
+    },
+    {
+      "stateCode": "33",
+      "stateName": "Rivers",
+      "lgas":
+      [
+        {
+          "lgaCode": "676",
+          "lgaName": "Abua/Odual"
+        },
+        {
+          "lgaCode": "677",
+          "lgaName": "Ahoada East"
+        },
+        {
+          "lgaCode": "678",
+          "lgaName": "Ahoada West"
+        },
+        {
+          "lgaCode": "679",
+          "lgaName": "Akuku Toru"
+        },
+        {
+          "lgaCode": "680",
+          "lgaName": "Andoni"
+        },
+        {
+          "lgaCode": "681",
+          "lgaName": "Asari-Toru"
+        },
+        {
+          "lgaCode": "682",
+          "lgaName": "Bonny"
+        },
+        {
+          "lgaCode": "683",
+          "lgaName": "Degema"
+        },
+        {
+          "lgaCode": "684",
+          "lgaName": "Emohua"
+        },
+        {
+          "lgaCode": "685",
+          "lgaName": "Eleme"
+        },
+        {
+          "lgaCode": "686",
+          "lgaName": "Etche"
+        },
+        {
+          "lgaCode": "687",
+          "lgaName": "Gokana"
+        },
+        {
+          "lgaCode": "688",
+          "lgaName": "Ikwerre"
+        },
+        {
+          "lgaCode": "689",
+          "lgaName": "Khana"
+        },
+        {
+          "lgaCode": "690",
+          "lgaName": "Obia/Akpor"
+        },
+        {
+          "lgaCode": "691",
+          "lgaName": "Ogba/Egbema/Ndoni"
+        },
+        {
+          "lgaCode": "692",
+          "lgaName": "Ogu/Bolo"
+        },
+        {
+          "lgaCode": "693",
+          "lgaName": "Okrika"
+        },
+        {
+          "lgaCode": "694",
+          "lgaName": "Omumma"
+        },
+        {
+          "lgaCode": "695",
+          "lgaName": "Opobo/Nkoro"
+        },
+        {
+          "lgaCode": "696",
+          "lgaName": "Oyigbo"
+        },
+        {
+          "lgaCode": "697",
+          "lgaName": "Port-Harcourt"
+        },
+        {
+          "lgaCode": "698",
+          "lgaName": "Tai"
+        }
+      ]
+    },
+    {
+      "stateCode": "34",
+      "stateName": "Sokoto",
+      "lgas":
+      [
+        {
+          "lgaCode": "699",
+          "lgaName": "Binji"
+        },
+        {
+          "lgaCode": "700",
+          "lgaName": "Bodinga"
+        },
+        {
+          "lgaCode": "701",
+          "lgaName": "Dange-shnsi"
+        },
+        {
+          "lgaCode": "702",
+          "lgaName": "Gada"
+        },
+        {
+          "lgaCode": "703",
+          "lgaName": "Goronyo"
+        },
+        {
+          "lgaCode": "704",
+          "lgaName": "Gudu"
+        },
+        {
+          "lgaCode": "705",
+          "lgaName": "Gawabawa"
+        },
+        {
+          "lgaCode": "706",
+          "lgaName": "llela"
+        },
+        {
+          "lgaCode": "707",
+          "lgaName": "Isa"
+        },
+        {
+          "lgaCode": "708",
+          "lgaName": "Kware"
+        },
+        {
+          "lgaCode": "709",
+          "lgaName": "kebbe"
+        },
+        {
+          "lgaCode": "710",
+          "lgaName": "Rabah"
+        },
+        {
+          "lgaCode": "711",
+          "lgaName": "Sabon birni"
+        },
+        {
+          "lgaCode": "712",
+          "lgaName": "Shagari"
+        },
+        {
+          "lgaCode": "713",
+          "lgaName": "Silame"
+        },
+        {
+          "lgaCode": "714",
+          "lgaName": "Sokoto North"
+        },
+        {
+          "lgaCode": "715",
+          "lgaName": "Sokoto South"
+        },
+        {
+          "lgaCode": "716",
+          "lgaName": "Tambuwal"
+        },
+        {
+          "lgaCode": "717",
+          "lgaName": "Tqngaza"
+        },
+        {
+          "lgaCode": "718",
+          "lgaName": "Tureta"
+        },
+        {
+          "lgaCode": "719",
+          "lgaName": "Wamako"
+        },
+        {
+          "lgaCode": "720",
+          "lgaName": "Wurno"
+        },
+        {
+          "lgaCode": "721",
+          "lgaName": "Yabo"
+        }
+      ]
+    },
+    {
+      "stateCode": "35",
+      "stateName": "Taraba",
+      "lgas":
+      [
+        {
+          "lgaCode": "722",
+          "lgaName": "Ardo-kola"
+        },
+        {
+          "lgaCode": "723",
+          "lgaName": "Bali"
+        },
+        {
+          "lgaCode": "724",
+          "lgaName": "Donga"
+        },
+        {
+          "lgaCode": "725",
+          "lgaName": "Gashaka"
+        },
+        {
+          "lgaCode": "726",
+          "lgaName": "Cassol"
+        },
+        {
+          "lgaCode": "727",
+          "lgaName": "Ibi"
+        },
+        {
+          "lgaCode": "728",
+          "lgaName": "Jalingo"
+        },
+        {
+          "lgaCode": "729",
+          "lgaName": "Karin-Lamido"
+        },
+        {
+          "lgaCode": "730",
+          "lgaName": "Kurmi"
+        },
+        {
+          "lgaCode": "731",
+          "lgaName": "Lau"
+        },
+        {
+          "lgaCode": "732",
+          "lgaName": "Sardauna"
+        },
+        {
+          "lgaCode": "733",
+          "lgaName": "Takum"
+        },
+        {
+          "lgaCode": "734",
+          "lgaName": "Ussa"
+        },
+        {
+          "lgaCode": "735",
+          "lgaName": "Wukari"
+        },
+        {
+          "lgaCode": "736",
+          "lgaName": "Yorro"
+        },
+        {
+          "lgaCode": "737",
+          "lgaName": "Zing"
+        }
+      ]
+    },
+    {
+      "stateCode": "36",
+      "stateName": "Yobe",
+      "lgas":
+      [
+        {
+          "lgaCode": "738",
+          "lgaName": "Bade"
+        },
+        {
+          "lgaCode": "739",
+          "lgaName": "Bursari"
+        },
+        {
+          "lgaCode": "740",
+          "lgaName": "Damaturu"
+        },
+        {
+          "lgaCode": "741",
+          "lgaName": "Fika"
+        },
+        {
+          "lgaCode": "742",
+          "lgaName": "Fune"
+        },
+        {
+          "lgaCode": "743",
+          "lgaName": "Geidam"
+        },
+        {
+          "lgaCode": "744",
+          "lgaName": "Gujba"
+        },
+        {
+          "lgaCode": "745",
+          "lgaName": "Gulani"
+        },
+        {
+          "lgaCode": "746",
+          "lgaName": "Jakusko"
+        },
+        {
+          "lgaCode": "747",
+          "lgaName": "Karasuwa"
+        },
+        {
+          "lgaCode": "748",
+          "lgaName": "Karawa"
+        },
+        {
+          "lgaCode": "749",
+          "lgaName": "Machina"
+        },
+        {
+          "lgaCode": "750",
+          "lgaName": "Nangere"
+        },
+        {
+          "lgaCode": "751",
+          "lgaName": "Nguru Potiskum"
+        },
+        {
+          "lgaCode": "752",
+          "lgaName": "Tarmua"
+        },
+        {
+          "lgaCode": "753",
+          "lgaName": "Yunusari"
+        },
+        {
+          "lgaCode": "754",
+          "lgaName": "Yusufari"
+        }
+      ]
+    },
+    {
+      "stateCode": "37",
+      "stateName": "Zamfara",
+      "lgas":
+      [
+        {
+          "lgaCode": "755",
+          "lgaName": "Anka"
+        },
+        {
+          "lgaCode": "756",
+          "lgaName": "Bakura"
+        },
+        {
+          "lgaCode": "757",
+          "lgaName": "Birnin Magaji"
+        },
+        {
+          "lgaCode": "758",
+          "lgaName": "Bukkuyum"
+        },
+        {
+          "lgaCode": "759",
+          "lgaName": "Bungudu"
+        },
+        {
+          "lgaCode": "760",
+          "lgaName": "Gummi"
+        },
+        {
+          "lgaCode": "761",
+          "lgaName": "Gusau"
+        },
+        {
+          "lgaCode": "762",
+          "lgaName": "Kaura"
+        },
+        {
+          "lgaCode": "763",
+          "lgaName": "Namoda"
+        },
+        {
+          "lgaCode": "764",
+          "lgaName": "Maradun"
+        },
+        {
+          "lgaCode": "765",
+          "lgaName": "Maru"
+        },
+        {
+          "lgaCode": "766",
+          "lgaName": "Shinkafi"
+        },
+        {
+          "lgaCode": "767",
+          "lgaName": "Talata Mafara"
+        },
+        {
+          "lgaCode": "768",
+          "lgaName": "Tsafe"
+        },
+        {
+          "lgaCode": "769",
+          "lgaName": "Zurmi"
+        }
+      ]
+    }]}
